@@ -232,7 +232,6 @@ form button:hover {
     gap: 5px;
     }
    .hero {
-     padding: 80px 20px 0;
     padding-top: 220px;
     }
         
@@ -252,6 +251,7 @@ footer{
     color:aliceblue;
     margin-top: 40px;
 }
+
 
 
 

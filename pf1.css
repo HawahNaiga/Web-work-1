@@ -220,28 +220,28 @@ form button:hover {
     margin-top: 30px;
 }
 @media (max-width:768px) {
-        .navbar {
-            flex-direction: column;
-            padding: 10px 20px;
-        }
-        .navbar ul {
-            flex-direction: column;
-            margin-top: 10px;
-            text-align: center;
-            gap: 10px;
-        }
-        .hero {
-            padding: 80px 20px;
-        }
-        
+ .navbar {
+   flex-direction: column;
+   padding: 10px 20px;
+   }
+  .navbar ul {
+    flex-direction: column;
+    margin-top: 10px;
+    text-align: center;
+    gap: 5px;
     }
-    @media (max-width: 480px) {
-        h1 {
-            font-size: 28px;
-        }
-        h2{
-            font-size: 25px;
-        }
+   .hero {
+     padding: 80px 20px 0;
+    }
+        
+   }
+  @media (max-width: 480px) {
+    h1 {
+     font-size: 28px;
+    }
+    h2{
+     font-size: 25px;
+     }
     }
 footer{
     text-align: center;
@@ -250,5 +250,6 @@ footer{
     color:aliceblue;
     margin-top: 40px;
 }
+
 
 
